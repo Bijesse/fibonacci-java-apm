@@ -190,3 +190,64 @@
 2022-08-24T17:35:46,557-0700 [49969 14] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
 2022-08-24T17:35:46,589-0700 [49969 42] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@380d4a7b tried to finish but ServiceManager not started
 2022-08-24T17:35:46,776-0700 [49969 14] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-08-25T08:48:50,196-0700 [72877 1] com.newrelic INFO: Writing to New Relic log file: /Users/tbijesse/Desktop/fibonacci-java-apm/newrelic/logs/newrelic_agent.log
+2022-08-25T08:48:50,198-0700 [72877 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 11.0.13
+2022-08-25T08:48:50,198-0700 [72877 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 11.0.13+8
+2022-08-25T08:48:50,198-0700 [72877 1] com.newrelic INFO: OS Mac OS X version 12.5.1 arch x86_64
+2022-08-25T08:48:50,198-0700 [72877 1] com.newrelic INFO: Agent Host: C02G55ERMD6M IP: 192.168.0.104
+2022-08-25T08:48:50,198-0700 [72877 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-08-25T08:48:50,753-0700 [72877 20] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-08-25T08:48:51,395-0700 [72877 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-08-25T08:48:51,626-0700 [72877 1] com.newrelic INFO: Setting audit_mode to false
+2022-08-25T08:48:51,770-0700 [72877 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/tbijesse/Desktop/fibonacci-java-apm/newrelic/./newrelic.yml
+2022-08-25T08:48:51,776-0700 [72877 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-08-25T08:48:51,776-0700 [72877 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@56ac3a89
+2022-08-25T08:48:51,776-0700 [72877 1] com.newrelic INFO: Premain startup complete in 2,260ms
+2022-08-25T08:48:53,135-0700 [72877 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-08-25T08:48:56,777-0700 [72877 39] com.newrelic INFO: Host name is C02G55ERMD6M, display host C02G55ERMD6M for application fibonacci-java
+2022-08-25T08:48:56,778-0700 [72877 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-08-25T08:48:57,502-0700 [72877 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-08-25T08:48:58,105-0700 [72877 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-08-25T08:48:58,105-0700 [72877 39] com.newrelic INFO: Agent run id: BeEoD4mr5PNjADOc0R8F8G1jB5ooAAIBAAAnIQEAARytAgQfBeuKAwAFNy41LjAADEMwMkc1NUVSTUQ2TQAOZmlib25hY2NpLWphdmE
+2022-08-25T08:48:58,105-0700 [72877 39] com.newrelic INFO: Agent 72877@C02G55ERMD6M/fibonacci-java connected to collector.newrelic.com:443
+2022-08-25T08:48:58,106-0700 [72877 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3382481/applications/520481674
+2022-08-25T08:48:58,107-0700 [72877 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-08-25T08:48:58,107-0700 [72877 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-08-25T08:48:58,107-0700 [72877 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-08-25T08:48:58,108-0700 [72877 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-08-25T08:48:58,108-0700 [72877 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-08-25T08:48:58,108-0700 [72877 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-08-25T08:48:58,305-0700 [72877 39] com.newrelic INFO: Real user monitoring is enabled for application fibonacci-java. Auto instrumentation is enabled.
+2022-08-25T08:48:58,307-0700 [72877 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-08-25T08:52:10,043-0700 [72877 14] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-08-25T08:52:10,052-0700 [72877 42] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@372c81ed tried to finish but ServiceManager not started
+2022-08-25T08:52:10,235-0700 [72877 14] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: Writing to New Relic log file: /Users/tbijesse/Desktop/fibonacci-java-apm/newrelic/logs/newrelic_agent.log
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 11.0.13
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 11.0.13+8
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: OS Mac OS X version 12.5.1 arch x86_64
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: Agent Host: C02G55ERMD6M IP: 192.168.0.104
+2022-08-25T08:53:21,134-0700 [73843 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-08-25T08:53:21,568-0700 [73843 20] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-08-25T08:53:22,103-0700 [73843 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-08-25T08:53:22,244-0700 [73843 1] com.newrelic INFO: Setting audit_mode to false
+2022-08-25T08:53:22,315-0700 [73843 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/tbijesse/Desktop/fibonacci-java-apm/newrelic/./newrelic.yml
+2022-08-25T08:53:22,319-0700 [73843 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-08-25T08:53:22,320-0700 [73843 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@56ac3a89
+2022-08-25T08:53:22,320-0700 [73843 1] com.newrelic INFO: Premain startup complete in 1,577ms
+2022-08-25T08:53:23,467-0700 [73843 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-08-25T08:53:27,326-0700 [73843 39] com.newrelic INFO: Host name is C02G55ERMD6M, display host C02G55ERMD6M for application fibonacci-java
+2022-08-25T08:53:27,327-0700 [73843 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-08-25T08:53:27,756-0700 [73843 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-08-25T08:53:28,702-0700 [73843 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-08-25T08:53:28,702-0700 [73843 39] com.newrelic INFO: Agent run id: BVQ1BgjYp5aXADOc0R8F8G1jB5tUAAIBAAAnIQEAASBzAgQfBeuKAwAFNy41LjAADEMwMkc1NUVSTUQ2TQAOZmlib25hY2NpLWphdmE
+2022-08-25T08:53:28,702-0700 [73843 39] com.newrelic INFO: Agent 73843@C02G55ERMD6M/fibonacci-java connected to collector.newrelic.com:443
+2022-08-25T08:53:28,703-0700 [73843 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3382481/applications/520481674
+2022-08-25T08:53:28,704-0700 [73843 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-08-25T08:53:28,704-0700 [73843 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-08-25T08:53:28,704-0700 [73843 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-08-25T08:53:28,706-0700 [73843 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-08-25T08:53:28,706-0700 [73843 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-08-25T08:53:28,706-0700 [73843 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-08-25T08:53:29,107-0700 [73843 39] com.newrelic INFO: Real user monitoring is enabled for application fibonacci-java. Auto instrumentation is enabled.
+2022-08-25T08:53:29,108-0700 [73843 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
